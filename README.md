@@ -1,17 +1,8 @@
 # Hi, I'm Shashank 👋
 
-🎓 B.E. Student at BMS College of Engineering
+I'm a B.E. student at BMS College of Engineering with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
 
-🤖 Aspiring AI/ML Engineer
+Currently, I'm building projects in Python, Machine Learning, and Web Development while continuously expanding my technical skills through hands-on learning and practical applications.
 
-📊 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Web Development
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning Machine Learning and Data Science
-- 💻 Building projects with Python and Web Technologies
-- 🎯 Goal: Become an AI/ML Engineer
-- 🤝 Open to Hackathons, Open Source, and Collaborations
+My goal is to develop impactful AI-driven solutions and contribute to innovative projects through collaboration, hackathons, and open-source development.
 
