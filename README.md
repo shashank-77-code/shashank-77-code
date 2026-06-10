@@ -1,4 +1,4 @@
-<img width="827" height="340" alt="image" src="https://github.com/user-attachments/assets/9354cb85-57f8-438b-b0bc-e4323d35b39b" /># Hi, I'm Shashank 👋
+# Hi, I'm Shashank 👋
 
 I'm a B.E. student at BMS College of Engineering with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
 
