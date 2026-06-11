@@ -7,7 +7,7 @@ Currently, I'm building projects in Python, Machine Learning, and Web Developmen
 My goal is to develop impactful AI-driven solutions and contribute to innovative projects through collaboration, hackathons, and open-source development.
 
 #  About Me:
-🔭 I'm currently working on Driver Drowsiness Detection and Machine Learning projects<br><br>🌱 I'm currently learning Machine Learning, Data Science, and Python<br><br>👯 I'm looking to collaborate on AI/ML, Data Science, and Open Source projects<br><br>💬 Ask me about Python, Web Development, and Machine Learning basics<br><br>⚡ Fun fact: I enjoy turning ideas into projects and learning by building
+🔭 I'm currently working on Driver Drowsiness Detection and Machine Learning projects<br><br> I'm currently learning Machine Learning, Data Science, and Python<br><br> I'm looking to collaborate on AI/ML, Data Science, and Open Source projects<br><br>💬 Ask me about Python, Web Development, and Machine Learning basics<br><br> Fun fact: I enjoy turning ideas into projects and learning by building
 
 
 ##  Socials:
