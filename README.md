@@ -1,4 +1,4 @@
-# Hi, I'm Shashank 👋
+# Hi, I'm Shashank 
 
 I'm a B.E. student at BMS College of Engineering with a strong interest in Artificial Intelligence, Machine Learning, and Data Science.
 
